@@ -1,4 +1,4 @@
-#### Our Services
+### Our Services
 
 We currently provide two types of renting on our platform
   1.  Dapps renting ( we currently have implemented two types of dapp renting that is NFT centered )
@@ -17,4 +17,6 @@ We currently provide two types of renting on our platform
             - Play it in metaverse if it has the type 'music'.
               and a lot more are coming..
               
-              If you have any suggestions to include , feel free to drop a text here at seemalfrl@gmail.com
+
+We are aiming to implement more use-cases in the future.
+If you have any suggestions to include , feel free to drop a text here at seemalfrl@gmail.com
