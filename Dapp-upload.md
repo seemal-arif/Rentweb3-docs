@@ -2,7 +2,7 @@
 
 Dapps Upload is really simple . You just need following things
 
-  - A cool n=Name of your Dapp
+  - A cool Name of your Dapp
   - Deployed URL
   - A Picture that shows how your dapp looks in action
   - Decided price per day
