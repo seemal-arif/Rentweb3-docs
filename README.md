@@ -1,4 +1,4 @@
-# Rentweb3-docs
+# Rentweb3-docs ✨
 This is the beta version of the documentation for rent web3 until we launch it directly on the platform website.
 
 Try Navigating through
