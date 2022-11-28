@@ -22,7 +22,7 @@ Not clear right ? Do not worry ! Let's learn this paradigm by an example
 ##### Example
   
   Say you have made an app located at address https://Nifter.vercel.app which takes a smart contract address of NFT collection ( ERC721 right now) .
-  It has the ability to show the collection stored by the smart contract and then the website can perform
+  It has the ability to show the collection stored by the smart contract and then it can perform
   the sale or whitelisting of it. With some minor tweaks , the developer can make his\her dapp really dynamic .
   
   Developer can follow some strategies to design such dapp in a way that NFT collection shown on the screen
@@ -32,4 +32,4 @@ Not clear right ? Do not worry ! Let's learn this paradigm by an example
   of the NFT from the passed contract.
   
   The smart contract address is not passed to dapp as there is no such way but
-  we introduce another way in [here](https://github.com/rentweb3/Rentweb3-docs/blob/main/Making-rentable-dapp.md).
+  we introduce another way . [Check here](https://github.com/rentweb3/Rentweb3-docs/blob/main/Making-rentable-dapp.md).
