@@ -10,7 +10,7 @@ but we are eager to see a variety of dapps that the community will bring.
 
 ##### Steps to follow
             - At first , make your dapp for just one collection of your choice . 
-   (Using any deployed instance of [WhitelistFactory.sol](https://github.com/umaresso/Rent-Web3-Polygon-Included/blob/master/contracts/WhitelistFactory.sol) or [Salefactory.sol](https://github.com/umaresso/Rent-Web3-Polygon-Included/blob/master/contracts/SaleFactory.sol))
+   (Using any deployed instance of [WhitelistFactory.sol](https://github.com/rentweb3/RentWeb3-code/blob/master/contracts/WhitelistFactory.sol) or [Salefactory.sol](https://github.com/rentweb3/RentWeb3-code/blob/master/contracts/SaleFactory.sol))
    
    
             - Store the smart contract address somewhere in a variable in the app.js or index.js file on top of everything.
@@ -19,9 +19,9 @@ but we are eager to see a variety of dapps that the community will bring.
             - Write the logic of sale or whitelisting according to the type of your dapp.
             - Check if everything is working - tokens minted successfully or whitelisting is happening flawlessly.
             - Time to add the magic.
-   Access the deployed smart contract Instance of [WebsiteRent.sol](https://github.com/umaresso/Rent-Web3-Polygon-Included/blob/master/contracts/WebsiteRent.sol)
+   Access the deployed smart contract Instance of [WebsiteRent.sol](https://github.com/rentweb3/RentWeb3-code/blob/master/contracts/WebsiteRent.sol)
    
-   at the addresses mentioned in [here](https://github.com/umaresso/Rentweb3-docs/blob/main/Dapp-renting.md) via ethers js or tronweb ( according to your blockchain)
+   at the addresses mentioned in [here](https://github.com/rentweb3/Rentweb3-docs/blob/main/Dapp-renting.md) via ethers js or tronweb ( according to your blockchain)
    
             - Acccess the current deployment with following code
 
@@ -83,20 +83,20 @@ function noDeployment(adr) {
 Following are some of the dapps that are built by the RentWeb3 Team . Feel free to check out
 
 ##### Polygon
-Whitelist       : [Get Whitelisted](https://github.com/umaresso/Get-Whitelisted)
-Sale            : [Lets Sale](https://github.com/umaresso/Lets-Sale)
+Whitelist       : [Get Whitelisted](https://github.com/rentweb3/Get-Whitelisted)
+Sale            : [Lets Sale](https://github.com/rentweb3/Lets-Sale)
 
 ##### Ethereum
-Whitelist       : [Whitelister](https://github.com/umaresso/whitelister)
-Sale            : [Nifter](https://github.com/umaresso/Nifter)
+Whitelist       : [Whitelister](https://github.com/rentweb3/whitelister)
+Sale            : [Nifter](https://github.com/rentweb3/Nifter)
 
 ##### Tron
-Whitelist       : [Tron Whitelister](https://github.com/umaresso/tron-whitelister)
+Whitelist       : [Tron Whitelister](https://github.com/rentweb3/tron-whitelister)
 Sale            : Yet to be developed
 
 
              
 #### Other Dapps are coming !
-Bring your ideas and lets have a coffe at seemalfrl@gmail.com
+Bring your ideas and lets have a coffe at rentweb3@gmail.com
     
     
