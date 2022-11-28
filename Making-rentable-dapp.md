@@ -78,7 +78,24 @@ function noDeployment(adr) {
             - If the deployment exists , render NFT collection and perform whitelist , sale or any thing that the dapp is developed for.
             - Make sure everything is working smoothly before uploading to the platform.
             - You are all set
-    
+
+#### Sample Dapps to check
+Following are some of the dapps that are built by the RentWeb3 Team . Feel free to check out
+
+##### Polygon
+Whitelist       : [Get Whitelisted](https://github.com/umaresso/Get-Whitelisted)
+Sale            : [Lets Sale](https://github.com/umaresso/Lets-Sale)
+
+##### Ethereum
+Whitelist       : [Whitelister](https://github.com/umaresso/whitelister)
+Sale            : [Nifter](https://github.com/umaresso/Nifter)
+
+##### Tron
+Whitelist       : [Tron Whitelister](https://github.com/umaresso/tron-whitelister)
+Sale            : Yet to be developed
+
+
+             
 #### Other Dapps are coming !
 Bring your ideas and lets have a coffe at seemalfrl@gmail.com
     
