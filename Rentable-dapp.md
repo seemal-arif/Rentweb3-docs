@@ -8,7 +8,7 @@ Dapps are expensive to build both in the  sense of money and time. A Complete da
   - Smart contracts Interaction
 
 what if we can build dapp once and earn lifetime ?
-what if you don not have to pay the entire price if you want to use it for just a little time ?
+what if you do not have to pay the entire price if you want to use it for just a little time ?
 
 Well , here we got you covered.
 
